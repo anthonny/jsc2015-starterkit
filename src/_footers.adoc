@@ -1,0 +1,16 @@
+[.footer,subs="attributes"]
+++++
+<div class="main-footer">
+  <strong>Speaker :</strong>
+  <span class="author">{author}</span>
+</div>
+<div class="footer-slide">
+  <div class="logo">
+    <img src="assets/theme/jsc2015/jugsummercamp.png" alt="">
+  </div>
+  <div>
+    <strong>{hashtag-event} {hashtag-talk}</strong>
+    <span class="author">{author}</span>
+  </div>
+</div>
+++++

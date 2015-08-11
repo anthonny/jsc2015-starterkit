@@ -1,0 +1,15 @@
+// Reveal configuration attributes
+:backend: revealjs
+//:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.1.0
+:revealjsdir: reveal.js
+:revealjs_controls: true
+:revealjs_transition: concave
+:revealjs_customtheme: assets/theme/jsc2015/jsc2015.css
+:source-highlighter: highlightjs
+// Theme attributes
+:hashtag-event: #JSC2015
+:hashtag-talk: #JSCMeteor
+:small-author: {author}
+
+// Footer for slides
+include::_footers.adoc[]
