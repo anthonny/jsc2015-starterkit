@@ -58,7 +58,7 @@ Les slides sont présents dans le dossier `src`.
 
 Le fichier principal est `index.adoc`, c'est avec ce dernier que la génération du fichier `target/index.html` est effectuée.
 
-Le fichier `_settings.adoc` contient les attributes de configuration de votre deck. Vous y trouverez notamment les *hashtags* et l'*auteur*.
+Le fichier `_settings.adoc` contient les attributs de configuration de votre deck. Vous y trouverez notamment les *hashtags* et l'*auteur*.
 
 Le fichier `_footers.adoc` contient les fragments HTML servant pour afficher les footers du premier slide et des suivants.
 
@@ -70,7 +70,7 @@ Pour générer les slides, exécutez la commande suivante :
 grunt
 ----
 
-### Serveur et watch
+### Génération, serveur et watch
 
 Pour démarrer un serveur sur le port 1337 (configurable dans le fichier *Gruntfile.js*) :
 [source, shell]
