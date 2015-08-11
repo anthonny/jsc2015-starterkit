@@ -41,7 +41,7 @@ http://gruntjs.com/getting-started
 git clone --recursive https://github.com/anthonny/{project-name}.git
 ----
 
-### Installation des dependences
+### Installation des dépendences
 [source, shell, subs="attributes"]
 ----
 cd {project-name}
