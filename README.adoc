@@ -82,6 +82,27 @@ A chaque changement sur les fichiers contenus dans le dossier (et sous dossiers)
 
 A chaque changement sur les fichiers `*.adoc` contenus dans le dossier (et sous dossiers) `src`, une génération du fichier `index.html` est effectuée dans le dossier `target`.
 
+### Images
+
+Quelques class css ont été créées pour redimensionner et arrondir les images :
+
+* width-60,width-65,width-70,width-75,width-80,width-85
+* rounded
+* no-border
+
+Elles sont utilisable comme ci-dessous:
+[source, asciidoc]
+----
+[.width-60]
+image::my-image[]
+
+[.no-border]
+image::my-image[]
+
+[.rounded]
+image::my-image[]
+----
+
 
 ## Copyright
 
