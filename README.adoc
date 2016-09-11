@@ -19,6 +19,18 @@ image::screenshot.png[]
 Pour installer {url-asciidoctor}[Asciidoctor], veuillez suivre les instructions présentes ici :
 {url-asciidoctor-req}
 
+### Asciidoctor-reveal.js
+
+Ce projet a besoin des gem `tilt`, `thread_safe` et `slim@2.1.0` https://github.com/asciidoctor/asciidoctor-reveal.js/tree/fd57af49236c8e9fdeea8df2ffe179add3b83045#usage-instructions[cf README.md].
+
+Installer l'ensemble des pré-requis Asciidoctor avec ces commandes :
+
+[source, shell]
+----
+gem install asciidoctor tilt thread_safe
+gem install slim --version 2.1.0
+----
+
 ### Npm et Node
 
 {url-npm}[Npm] et {url-node}[Node] sont nécessaire pour la gestion des librairies et pour l'exécution du build via {url-grunt}[Grunt].
