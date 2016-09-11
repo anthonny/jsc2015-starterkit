@@ -106,7 +106,7 @@ image::my-image[]
 
 ## Copyright
 
-Pour les images fournies par le Jug Summer Camp pour 2015, elles restent la propriété de {url-serli}[SERLi].
+Pour les images fournies par le Jug Summer Camp pour 2016, elles restent la propriété de {url-serli}[SERLi].
 
 Les images sont les suivantes :
 
